@@ -32,7 +32,6 @@ I build full-stack products end to end — <b>Next.js / TypeScript</b> apps with
 - Storefront plus a custom admin panel: products, categories, orders, page content and users
 - Rich-text CMS (TipTap), drag-and-drop ordering (dnd-kit), data tables (TanStack) and sales charts (Recharts)
 - Auth with NextAuth/JWT, image pipeline through Cloudinary, deployed on AWS behind CloudFront
-- ~650k lines of TypeScript
 
 #### 🕌 AI WhatsApp assistant — *private, in production*
 `Python` `LLM agents` `DeepSeek` `Supabase` `Docker`
